@@ -9,12 +9,12 @@
     display: grid;
     grid-template-columns:  repeat(2,1fr);
 }
-
+/* #15232D */
 body{
     margin: 0;
     padding: 0;
     font-family: 'JetBrainsMono', sans-serif;
-    background-color: #15232D;
+    background-color: #060607;
     color: #dadada;
 
 }
