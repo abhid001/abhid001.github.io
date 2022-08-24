@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 style="background-color:Tomato;">Portfolio Webpage</h1>
+<h1>Portfolio Webpage</h1>
 <h3><a href="https://adixit001.github.io">adixit001.github.io</a><h3>
 </div>
 
